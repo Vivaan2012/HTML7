@@ -1,0 +1,24 @@
+*{
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 50px;
+
+}
+h3{
+    color:rgb(234, 234, 27);
+
+}
+.demo{
+    color: orange;
+}
+#demo2{
+    background-color: cornsilk;
+    color: blueviolet;
+
+}
+h5,p{
+    color: maroon;
+    border: 3px dotted white;
+
+}
